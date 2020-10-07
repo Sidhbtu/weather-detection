@@ -1,0 +1,21 @@
+.curr{
+  display: block;
+}
+
+.curr , .currTemp{
+  height: 100px;
+  
+}
+.condition {
+  color: orangered;
+  padding-left: 15px;
+}
+.currTemp{
+  font-size: 50px;
+  font-weight: bold;
+  color: orangered;
+}
+
+body{
+background-image: linear-gradient( to right , rgb(88, 124, 202) ,rgb(244, 246, 247),rgb(88, 156, 219));
+}
